@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>br.com.cafebinario</groupId>
+  <artifactId>jimfs</artifactId>
+  <version>HEAD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190722.163611</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190722163611</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>HEAD-20190722.163611-1</value>
+        <updated>20190722163611</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>HEAD-20190722.163611-1</value>
+        <updated>20190722163611</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>HEAD-20190722.163611-1</value>
+        <updated>20190722163611</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>HEAD-20190722.163611-1</value>
+        <updated>20190722163611</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

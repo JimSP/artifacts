@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>br.com.cafebinario</groupId>
+  <artifactId>jimfs</artifactId>
+  <versioning>
+    <versions>
+      <version>HEAD-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190722163611</lastUpdated>
+  </versioning>
+</metadata>
